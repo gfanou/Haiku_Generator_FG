@@ -1,0 +1,43 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+h1{
+    font-family: Georgia;
+    font-weight: bold;
+    margin-top: 3px;
+}
+fieldset {
+    background-color:aliceblue;
+    padding: 20px;
+    text-align: left;
+    line-height: 8px;
+    margin-top: 8px;
+}
+
+
+button{
+
+    background: darkblue;
+    color:aqua;
+    cursor:pointer;
+    font-size:1.2em;
+    padding:10px 10px;
+    width:150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+ #level2 {
+    font-size: larger;
+    font-weight: bold;
+}
+#level1{
+    font-family: "Arial Black";
+    font-size: small;
+}
+
+#word{
+    width: 240px;
+    height: 35px;
+}
